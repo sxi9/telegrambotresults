@@ -1,4 +1,4 @@
-# Telegram Bot Project
+# Telegram College Result Bot Project
 
 This Telegram bot is designed to fetch PDF links based on user inputs, such as a roll number, from a specified website and send these PDFs directly to the user on Telegram. It's built using Python and leverages the `python-telegram-bot` library.
 
