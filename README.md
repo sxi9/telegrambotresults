@@ -19,8 +19,9 @@ This Telegram bot is designed to fetch PDF links based on user inputs, such as a
 
 1. **Clone the Repository**
 
-git clone https://github.com/yourgithubusername/telegram-bot-project.git
-cd telegram-bot-project
+git clone https://github.com/sxi9/telegrambotresults.git
+
+cd telegrambotresults
 
 2. **Install Dependencies**
 3. pip install -r requirements.txt
